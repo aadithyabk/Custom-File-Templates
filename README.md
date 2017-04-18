@@ -1,4 +1,4 @@
-##A repository for custom file templates that I have found incredibly useful either at work or for my personal projects. I'll add more to this repositoy as I create them 
+## A repository for custom file templates that I have found incredibly useful either at work or for my personal projects. I'll add more to this repositoy as I create them 
 
 1) **MVP using Mosby**
 
